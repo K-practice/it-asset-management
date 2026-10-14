@@ -1,0 +1,17 @@
+# 仮想環境
+.venv/
+
+# Pythonが自動生成するキャッシュ
+__pycache__/
+
+# DBパスワード・SECRET KEYなどの秘密情報
+.env
+
+# 追加の環境設定ファイル
+.env.*
+
+# .envの見本
+!.env.example
+
+# DBバックアップ
+backups/
