@@ -1,4 +1,6 @@
+---------------------------
 -- DB・テーブル・制約の作成
+---------------------------
 
 -- データベース作成
 CREATE DATABASE IF NOT EXISTS it_asset_management
